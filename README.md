@@ -2,5 +2,5 @@
 
 Steps:
 
-1) run stage 1 notebook
+1) run baycofe_comparison notebook
 2) use the pickle files from step 1 as input to the notebook for plots
